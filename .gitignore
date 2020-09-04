@@ -1,0 +1,4 @@
+.idea
+target
+*.class
+src/main/resources/stackoverflow/stackoverflow.csv
